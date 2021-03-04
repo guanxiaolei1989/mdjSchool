@@ -1,0 +1,59 @@
+{
+<<<<<<< HEAD
+    "pages": [
+        "pages/index/index",
+        "pages/kecheng/index",
+        "pages/news/index",
+        "pages/contact/index",
+        "pages/news/detail",
+        "pages/contact/liuyan",
+        "pages/kecheng/detail",
+        "pages/kecheng1/detail",
+        "pages/teacher/index",
+        "pages/huodong/index",
+        "pages/huodong/detail",
+        "pages/huodong/partake",
+        "pages/hd/index",
+        "pages/hd/bargain",
+        "pages/hd/vote",
+        "pages/hd/detail",
+        "pages/contact/about",
+        "pages/education/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "牡丹江职业技术学院",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json"
+=======
+  "pages": [
+    "pages/index/index",
+    "pages/kecheng/index",
+    "pages/news/index",
+    "pages/contact/index",
+    "pages/news/detail",
+    "pages/contact/liuyan",
+    "pages/kecheng/detail",
+    "pages/kecheng1/detail",
+    "pages/teacher/index",
+    "pages/huodong/index",
+    "pages/huodong/detail",
+    "pages/huodong/partake",
+    "pages/hd/index",
+    "pages/hd/bargain",
+    "pages/hd/vote",
+    "pages/hd/detail",
+    "pages/contact/about",
+    "pages/education/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "牡丹江职业技术学院",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+>>>>>>> 79616ba (提交文件)
+}

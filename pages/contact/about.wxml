@@ -1,0 +1,18 @@
+<view class="block">
+  <view class="title">学院简介</view>
+  <view wx:if="{{item.isShow == 0}}" class="about" wx:for="{{introduce}}" wx:key="id">{{item.iContent}}</view>
+</view>
+
+<view class="block">
+  <view class="title">
+    <text>学院相册</text>
+  </view>
+  <view class="product">
+    <scroll-view scroll-x="true" class="pro">
+      <view class="item" wx:for="{{album}}" wx:key="id">
+        <image src="{{item.photo}}" bindtap='lookPhoto'></image>
+        <!-- <text>{{item.title}}</text> -->
+      </view>
+    </scroll-view>
+  </view>
+</view>
