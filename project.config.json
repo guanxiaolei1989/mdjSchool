@@ -39,11 +39,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.14.4",
   "appid": "wx9cfc69b95196ce9c",
-<<<<<<< HEAD
   "projectname": "school",
-=======
-  "projectname": "mdjschool",
->>>>>>> 79616ba (提交文件)
   "condition": {
     "plugin": {
       "list": []
